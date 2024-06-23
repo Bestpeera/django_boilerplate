@@ -3,3 +3,4 @@ django-dotenv==1.4.2
 djangorestframework==3.13.1
 django-filter==22.1
 django-tailwind==3.8.0
+django-browser-reload==1.13.0
